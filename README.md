@@ -1,6 +1,6 @@
-# FreeCodeCamp
+# Freecodecamp
 
 ## Responsive Web Design 
-
-* Photo Cat App
-* Coffee Menu
+### Courses
+* Learn HTML by building a Cat Photo App
+* Learn Basic CSS by Building a Cafe Menu
