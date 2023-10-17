@@ -1,4 +1,4 @@
-# Freecodecamp
+# FREECODECAMP
 
 ## Responsive Web Design 
 ### Courses
